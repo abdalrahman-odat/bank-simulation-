@@ -1,6 +1,6 @@
 username="admin"
 password="123456"
-attempts= 3
+attempts= 4
 while attempts > 0 :
     user=input("Enter username: ")
     pas=input("Enter password: ")
