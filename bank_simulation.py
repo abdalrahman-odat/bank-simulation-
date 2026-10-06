@@ -1,6 +1,10 @@
 username="admin"
 password="123456"
+<<<<<<< HEAD
 attempts= 4
+=======
+attempts= 5
+>>>>>>> 71ed5a97bc7666ab31a43f3f4a98cf75c43e8180
 while attempts > 0 :
     user=input("Enter username: ")
     pas=input("Enter password: ")
@@ -55,4 +59,7 @@ while True:
 
     else:
         print("Invalid choice.")
+<<<<<<< HEAD
 print("thank you for using our system")
+=======
+>>>>>>> 71ed5a97bc7666ab31a43f3f4a98cf75c43e8180
